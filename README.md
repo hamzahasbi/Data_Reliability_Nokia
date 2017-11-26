@@ -31,7 +31,8 @@
 			extracted from the files 			
 			->The "Save Results" button creates an output folder (if not exists) in 
 			the same folder as the module this directory will contain the log file 
-			(the result of the application) and then it will be added to the database.								->The "Load Results" button gives you the possibility to load a log file
+			(the result of the application) and then it will be added to the database.
+			->The "Load Results" button gives you the possibility to load a log file
 			using the date in the same format as mentioned in the text field of the View .					
 ---				 
 
