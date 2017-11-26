@@ -1,6 +1,6 @@
-**Data RELIABILITY MODULE FOR NOKIA 
+#### Data RELIABILITY MODULE FOR NOKIA 
 
-###Dependecies#######################################################<br />
+### Dependecies#######################################################<br />
 	-You must Have Java installed <br />
 	-You must install Mysql 	<br />									
 	-You must set the password and username in your mysql server to <br />
@@ -11,7 +11,7 @@
 	  	manually				<br />									
 #####################################################################<br />
 
-***Instructions***************************************************************************************************<br />
+#### Instructions***************************************************************************************************<br />
 <br />																		<br />										 
 First Of all after extracting the zip file run either the Launch.sh or .bat (for windows) this will run the   <br />   
 application .	<br />																		<br />					     
