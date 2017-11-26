@@ -1,6 +1,6 @@
 ## Data RELIABILITY MODULE FOR NOKIA 
 ---
-#### Dependecies
+## Dependecies
 	-You must Have Java installed 
 	-You must install Mysql 									
 	-You must set the password and username in your mysql server to 
@@ -34,5 +34,13 @@
 			(the result of the application) and then it will be added to the database.
 			->The "Load Results" button gives you the possibility to load a log file
 			using the date in the same format as mentioned in the text field of the View .					
----				 
+---	
+
+## Contributor
+- Hasbi Hamza <hamza.hasbi@gmail.com> 
+
+---
+## LICENSE
+
+Licenced under the [Apache License 2.0] (LICENSE)
 
