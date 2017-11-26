@@ -36,11 +36,11 @@
 			using the date in the same format as mentioned in the text field of the View .					
 ---	
 
-## Contributor
+## Contributors
 - Hasbi Hamza <hamza.hasbi@gmail.com> 
 
 ---
 ## LICENSE
 
-Licenced under the [Apache License 2.0] (LICENSE)
+Licenced under the [Apache License 2.0] 
 
