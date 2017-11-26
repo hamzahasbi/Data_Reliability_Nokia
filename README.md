@@ -41,5 +41,5 @@
 ---
 ## LICENSE
 
-Licenced under the [Apache License 2.0] (./LICENSE.md)
+Licenced under the [Apache License 2.0](LICENSE)
 
