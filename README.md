@@ -11,7 +11,7 @@
 	  	manually												
 ---
 
-#### Instructions
+## Instructions
 <br />																		<br />										 
 First Of all after extracting the zip file run either the Launch.sh or .bat (for windows) this will run the   <br />   
 application .	<br />																		<br />					     
@@ -31,4 +31,4 @@ pass the result to the dashboard .											<br />								     <br />
  		->the "Load Results" button gives you the possibility to load a log file using the date in the same format<br />
  		as mentioned in the text field of the View .									<br />				    	 <br />
  					<br />																		<br />					 
----
+
