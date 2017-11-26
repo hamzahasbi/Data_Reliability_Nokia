@@ -1,6 +1,6 @@
-# Data RELIABILITY MODULE FOR NOKIA 
+## Data RELIABILITY MODULE FOR NOKIA 
 ---
-### Dependecies
+#### Dependecies
 	-You must Have Java installed 
 	-You must install Mysql 									
 	-You must set the password and username in your mysql server to 
@@ -9,7 +9,6 @@
 	-If you have extracted the Zip please make sure that all the 	
 	 	files are arranged in the same folder if not please do it	
 	  	manually												
-#####################################################################
 ---
 
 #### Instructions
