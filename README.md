@@ -1,9 +1,4 @@
-
-   #####################<br />
-   #		       #<br />
-   # PLEASE READ THIS  #<br />
-   #		       #<br />
-   #####################<br />
+**Data RELIABILITY MODULE FOR NOKIA 
 
 ###Dependecies#######################################################<br />
 	-You must Have Java installed <br />
