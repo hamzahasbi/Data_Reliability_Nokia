@@ -13,8 +13,7 @@
 
 ## Instructions																 
 	First Of all after extracting the zip file run either the Launch.sh or .bat 
-	(for windows) this will run the   <br />   
-	application .				     
+	(for windows) this will run the application .				     
 	Put the path of the folder that contains the xml.gz files when asked .							
 	Then the module will run through the files and do his work after finishing 
 	the process , a message containing 	the execution time will appear then you 
