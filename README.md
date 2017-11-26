@@ -1,15 +1,16 @@
-#### Data RELIABILITY MODULE FOR NOKIA 
-
+# Data RELIABILITY MODULE FOR NOKIA 
+---
 ### Dependecies
-	-You must Have Java installed <br />
-	-You must install Mysql 	<br />									
-	-You must set the password and username in your mysql server to <br />
-		username : root		<br />										
-		Password : ""		<br />										
-	-If you have extracted the Zip please make sure that all the 	<br />
-	 	files are arranged in the same folder if not please do it <br />	
-	  	manually				<br />									
+	-You must Have Java installed 
+	-You must install Mysql 									
+	-You must set the password and username in your mysql server to 
+		username : root												
+		Password : ""											
+	-If you have extracted the Zip please make sure that all the 	
+	 	files are arranged in the same folder if not please do it	
+	  	manually												
 #####################################################################
+---
 
 #### Instructions
 <br />																		<br />										 
@@ -31,4 +32,4 @@ pass the result to the dashboard .											<br />								     <br />
  		->the "Load Results" button gives you the possibility to load a log file using the date in the same format<br />
  		as mentioned in the text field of the View .									<br />				    	 <br />
  					<br />																		<br />					 
-******************************************************************************************************************<br />
+---
