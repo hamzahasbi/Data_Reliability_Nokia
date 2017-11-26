@@ -1,4 +1,4 @@
-## Data RELIABILITY MODULE FOR NOKIA 
+## Data Reliability Module For NOKIA 
 ---
 ## Dependecies
 	-You must Have Java installed 
@@ -41,5 +41,5 @@
 ---
 ## LICENSE
 
-Licenced under the [Apache License 2.0] 
+Licenced under the [Apache License 2.0] (./LICENSE.md)
 
